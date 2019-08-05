@@ -1,0 +1,2 @@
+## AURELIA : A PAINT ALTERNATIVE
+A graphics editing software developed using Java and Swing as a basic alternative to Paint, and to test the different algorithms present in graphics design to draw and paint shapes.
